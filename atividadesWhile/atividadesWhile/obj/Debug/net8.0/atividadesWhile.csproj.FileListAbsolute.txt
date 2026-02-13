@@ -1,0 +1,14 @@
+C:\Users\mateus.csilva19\OneDrive - SENAC - SP\repos\atividadesWhile\atividadesWhile\bin\Debug\net8.0\atividadesWhile.exe
+C:\Users\mateus.csilva19\OneDrive - SENAC - SP\repos\atividadesWhile\atividadesWhile\bin\Debug\net8.0\atividadesWhile.deps.json
+C:\Users\mateus.csilva19\OneDrive - SENAC - SP\repos\atividadesWhile\atividadesWhile\bin\Debug\net8.0\atividadesWhile.runtimeconfig.json
+C:\Users\mateus.csilva19\OneDrive - SENAC - SP\repos\atividadesWhile\atividadesWhile\bin\Debug\net8.0\atividadesWhile.dll
+C:\Users\mateus.csilva19\OneDrive - SENAC - SP\repos\atividadesWhile\atividadesWhile\bin\Debug\net8.0\atividadesWhile.pdb
+C:\Users\mateus.csilva19\OneDrive - SENAC - SP\repos\atividadesWhile\atividadesWhile\obj\Debug\net8.0\atividadesWhile.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mateus.csilva19\OneDrive - SENAC - SP\repos\atividadesWhile\atividadesWhile\obj\Debug\net8.0\atividadesWhile.AssemblyInfoInputs.cache
+C:\Users\mateus.csilva19\OneDrive - SENAC - SP\repos\atividadesWhile\atividadesWhile\obj\Debug\net8.0\atividadesWhile.AssemblyInfo.cs
+C:\Users\mateus.csilva19\OneDrive - SENAC - SP\repos\atividadesWhile\atividadesWhile\obj\Debug\net8.0\atividadesWhile.csproj.CoreCompileInputs.cache
+C:\Users\mateus.csilva19\OneDrive - SENAC - SP\repos\atividadesWhile\atividadesWhile\obj\Debug\net8.0\atividadesWhile.dll
+C:\Users\mateus.csilva19\OneDrive - SENAC - SP\repos\atividadesWhile\atividadesWhile\obj\Debug\net8.0\refint\atividadesWhile.dll
+C:\Users\mateus.csilva19\OneDrive - SENAC - SP\repos\atividadesWhile\atividadesWhile\obj\Debug\net8.0\atividadesWhile.pdb
+C:\Users\mateus.csilva19\OneDrive - SENAC - SP\repos\atividadesWhile\atividadesWhile\obj\Debug\net8.0\atividadesWhile.genruntimeconfig.cache
+C:\Users\mateus.csilva19\OneDrive - SENAC - SP\repos\atividadesWhile\atividadesWhile\obj\Debug\net8.0\ref\atividadesWhile.dll
