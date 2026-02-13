@@ -1,0 +1,14 @@
+C:\Users\mateus.csilva19\OneDrive - SENAC - SP\repos\sistemaCalculos\sistemaCalculos\bin\Debug\net8.0\sistemaCalculos.exe
+C:\Users\mateus.csilva19\OneDrive - SENAC - SP\repos\sistemaCalculos\sistemaCalculos\bin\Debug\net8.0\sistemaCalculos.deps.json
+C:\Users\mateus.csilva19\OneDrive - SENAC - SP\repos\sistemaCalculos\sistemaCalculos\bin\Debug\net8.0\sistemaCalculos.runtimeconfig.json
+C:\Users\mateus.csilva19\OneDrive - SENAC - SP\repos\sistemaCalculos\sistemaCalculos\bin\Debug\net8.0\sistemaCalculos.dll
+C:\Users\mateus.csilva19\OneDrive - SENAC - SP\repos\sistemaCalculos\sistemaCalculos\bin\Debug\net8.0\sistemaCalculos.pdb
+C:\Users\mateus.csilva19\OneDrive - SENAC - SP\repos\sistemaCalculos\sistemaCalculos\obj\Debug\net8.0\sistemaCalculos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mateus.csilva19\OneDrive - SENAC - SP\repos\sistemaCalculos\sistemaCalculos\obj\Debug\net8.0\sistemaCalculos.AssemblyInfoInputs.cache
+C:\Users\mateus.csilva19\OneDrive - SENAC - SP\repos\sistemaCalculos\sistemaCalculos\obj\Debug\net8.0\sistemaCalculos.AssemblyInfo.cs
+C:\Users\mateus.csilva19\OneDrive - SENAC - SP\repos\sistemaCalculos\sistemaCalculos\obj\Debug\net8.0\sistemaCalculos.csproj.CoreCompileInputs.cache
+C:\Users\mateus.csilva19\OneDrive - SENAC - SP\repos\sistemaCalculos\sistemaCalculos\obj\Debug\net8.0\sistemaCalculos.dll
+C:\Users\mateus.csilva19\OneDrive - SENAC - SP\repos\sistemaCalculos\sistemaCalculos\obj\Debug\net8.0\refint\sistemaCalculos.dll
+C:\Users\mateus.csilva19\OneDrive - SENAC - SP\repos\sistemaCalculos\sistemaCalculos\obj\Debug\net8.0\sistemaCalculos.pdb
+C:\Users\mateus.csilva19\OneDrive - SENAC - SP\repos\sistemaCalculos\sistemaCalculos\obj\Debug\net8.0\sistemaCalculos.genruntimeconfig.cache
+C:\Users\mateus.csilva19\OneDrive - SENAC - SP\repos\sistemaCalculos\sistemaCalculos\obj\Debug\net8.0\ref\sistemaCalculos.dll
