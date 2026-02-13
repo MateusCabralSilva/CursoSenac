@@ -1,0 +1,14 @@
+C:\Users\mateus.csilva19\OneDrive - SENAC - SP\repos\Passagem\Passagem\bin\Debug\net8.0\Passagem.exe
+C:\Users\mateus.csilva19\OneDrive - SENAC - SP\repos\Passagem\Passagem\bin\Debug\net8.0\Passagem.deps.json
+C:\Users\mateus.csilva19\OneDrive - SENAC - SP\repos\Passagem\Passagem\bin\Debug\net8.0\Passagem.runtimeconfig.json
+C:\Users\mateus.csilva19\OneDrive - SENAC - SP\repos\Passagem\Passagem\bin\Debug\net8.0\Passagem.dll
+C:\Users\mateus.csilva19\OneDrive - SENAC - SP\repos\Passagem\Passagem\bin\Debug\net8.0\Passagem.pdb
+C:\Users\mateus.csilva19\OneDrive - SENAC - SP\repos\Passagem\Passagem\obj\Debug\net8.0\Passagem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mateus.csilva19\OneDrive - SENAC - SP\repos\Passagem\Passagem\obj\Debug\net8.0\Passagem.AssemblyInfoInputs.cache
+C:\Users\mateus.csilva19\OneDrive - SENAC - SP\repos\Passagem\Passagem\obj\Debug\net8.0\Passagem.AssemblyInfo.cs
+C:\Users\mateus.csilva19\OneDrive - SENAC - SP\repos\Passagem\Passagem\obj\Debug\net8.0\Passagem.csproj.CoreCompileInputs.cache
+C:\Users\mateus.csilva19\OneDrive - SENAC - SP\repos\Passagem\Passagem\obj\Debug\net8.0\Passagem.dll
+C:\Users\mateus.csilva19\OneDrive - SENAC - SP\repos\Passagem\Passagem\obj\Debug\net8.0\refint\Passagem.dll
+C:\Users\mateus.csilva19\OneDrive - SENAC - SP\repos\Passagem\Passagem\obj\Debug\net8.0\Passagem.pdb
+C:\Users\mateus.csilva19\OneDrive - SENAC - SP\repos\Passagem\Passagem\obj\Debug\net8.0\Passagem.genruntimeconfig.cache
+C:\Users\mateus.csilva19\OneDrive - SENAC - SP\repos\Passagem\Passagem\obj\Debug\net8.0\ref\Passagem.dll

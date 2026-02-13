@@ -1,0 +1,14 @@
+C:\Users\mateus.csilva19\OneDrive - SENAC - SP\repos\PlanoAcademia\PlanoAcademia\bin\Debug\net8.0\PlanoAcademia.exe
+C:\Users\mateus.csilva19\OneDrive - SENAC - SP\repos\PlanoAcademia\PlanoAcademia\bin\Debug\net8.0\PlanoAcademia.deps.json
+C:\Users\mateus.csilva19\OneDrive - SENAC - SP\repos\PlanoAcademia\PlanoAcademia\bin\Debug\net8.0\PlanoAcademia.runtimeconfig.json
+C:\Users\mateus.csilva19\OneDrive - SENAC - SP\repos\PlanoAcademia\PlanoAcademia\bin\Debug\net8.0\PlanoAcademia.dll
+C:\Users\mateus.csilva19\OneDrive - SENAC - SP\repos\PlanoAcademia\PlanoAcademia\bin\Debug\net8.0\PlanoAcademia.pdb
+C:\Users\mateus.csilva19\OneDrive - SENAC - SP\repos\PlanoAcademia\PlanoAcademia\obj\Debug\net8.0\PlanoAcademia.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mateus.csilva19\OneDrive - SENAC - SP\repos\PlanoAcademia\PlanoAcademia\obj\Debug\net8.0\PlanoAcademia.AssemblyInfoInputs.cache
+C:\Users\mateus.csilva19\OneDrive - SENAC - SP\repos\PlanoAcademia\PlanoAcademia\obj\Debug\net8.0\PlanoAcademia.AssemblyInfo.cs
+C:\Users\mateus.csilva19\OneDrive - SENAC - SP\repos\PlanoAcademia\PlanoAcademia\obj\Debug\net8.0\PlanoAcademia.csproj.CoreCompileInputs.cache
+C:\Users\mateus.csilva19\OneDrive - SENAC - SP\repos\PlanoAcademia\PlanoAcademia\obj\Debug\net8.0\PlanoAcademia.dll
+C:\Users\mateus.csilva19\OneDrive - SENAC - SP\repos\PlanoAcademia\PlanoAcademia\obj\Debug\net8.0\refint\PlanoAcademia.dll
+C:\Users\mateus.csilva19\OneDrive - SENAC - SP\repos\PlanoAcademia\PlanoAcademia\obj\Debug\net8.0\PlanoAcademia.pdb
+C:\Users\mateus.csilva19\OneDrive - SENAC - SP\repos\PlanoAcademia\PlanoAcademia\obj\Debug\net8.0\PlanoAcademia.genruntimeconfig.cache
+C:\Users\mateus.csilva19\OneDrive - SENAC - SP\repos\PlanoAcademia\PlanoAcademia\obj\Debug\net8.0\ref\PlanoAcademia.dll
