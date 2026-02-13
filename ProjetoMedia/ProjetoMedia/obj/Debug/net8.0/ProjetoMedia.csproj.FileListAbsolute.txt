@@ -1,0 +1,14 @@
+C:\Users\mateus.csilva19\OneDrive - SENAC - SP\repos\ProjetoMedia\ProjetoMedia\obj\Debug\net8.0\ProjetoMedia.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mateus.csilva19\OneDrive - SENAC - SP\repos\ProjetoMedia\ProjetoMedia\obj\Debug\net8.0\ProjetoMedia.AssemblyInfoInputs.cache
+C:\Users\mateus.csilva19\OneDrive - SENAC - SP\repos\ProjetoMedia\ProjetoMedia\obj\Debug\net8.0\ProjetoMedia.AssemblyInfo.cs
+C:\Users\mateus.csilva19\OneDrive - SENAC - SP\repos\ProjetoMedia\ProjetoMedia\obj\Debug\net8.0\ProjetoMedia.csproj.CoreCompileInputs.cache
+C:\Users\mateus.csilva19\OneDrive - SENAC - SP\repos\ProjetoMedia\ProjetoMedia\bin\Debug\net8.0\ProjetoMedia.exe
+C:\Users\mateus.csilva19\OneDrive - SENAC - SP\repos\ProjetoMedia\ProjetoMedia\bin\Debug\net8.0\ProjetoMedia.deps.json
+C:\Users\mateus.csilva19\OneDrive - SENAC - SP\repos\ProjetoMedia\ProjetoMedia\bin\Debug\net8.0\ProjetoMedia.runtimeconfig.json
+C:\Users\mateus.csilva19\OneDrive - SENAC - SP\repos\ProjetoMedia\ProjetoMedia\bin\Debug\net8.0\ProjetoMedia.dll
+C:\Users\mateus.csilva19\OneDrive - SENAC - SP\repos\ProjetoMedia\ProjetoMedia\bin\Debug\net8.0\ProjetoMedia.pdb
+C:\Users\mateus.csilva19\OneDrive - SENAC - SP\repos\ProjetoMedia\ProjetoMedia\obj\Debug\net8.0\ProjetoMedia.dll
+C:\Users\mateus.csilva19\OneDrive - SENAC - SP\repos\ProjetoMedia\ProjetoMedia\obj\Debug\net8.0\refint\ProjetoMedia.dll
+C:\Users\mateus.csilva19\OneDrive - SENAC - SP\repos\ProjetoMedia\ProjetoMedia\obj\Debug\net8.0\ProjetoMedia.pdb
+C:\Users\mateus.csilva19\OneDrive - SENAC - SP\repos\ProjetoMedia\ProjetoMedia\obj\Debug\net8.0\ProjetoMedia.genruntimeconfig.cache
+C:\Users\mateus.csilva19\OneDrive - SENAC - SP\repos\ProjetoMedia\ProjetoMedia\obj\Debug\net8.0\ref\ProjetoMedia.dll
