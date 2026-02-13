@@ -1,0 +1,14 @@
+C:\Users\mateus.csilva19\OneDrive - SENAC - SP\repos\menuLanchonete\menuLanchonete\bin\Debug\net8.0\menuLanchonete.exe
+C:\Users\mateus.csilva19\OneDrive - SENAC - SP\repos\menuLanchonete\menuLanchonete\bin\Debug\net8.0\menuLanchonete.deps.json
+C:\Users\mateus.csilva19\OneDrive - SENAC - SP\repos\menuLanchonete\menuLanchonete\bin\Debug\net8.0\menuLanchonete.runtimeconfig.json
+C:\Users\mateus.csilva19\OneDrive - SENAC - SP\repos\menuLanchonete\menuLanchonete\bin\Debug\net8.0\menuLanchonete.dll
+C:\Users\mateus.csilva19\OneDrive - SENAC - SP\repos\menuLanchonete\menuLanchonete\bin\Debug\net8.0\menuLanchonete.pdb
+C:\Users\mateus.csilva19\OneDrive - SENAC - SP\repos\menuLanchonete\menuLanchonete\obj\Debug\net8.0\menuLanchonete.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mateus.csilva19\OneDrive - SENAC - SP\repos\menuLanchonete\menuLanchonete\obj\Debug\net8.0\menuLanchonete.AssemblyInfoInputs.cache
+C:\Users\mateus.csilva19\OneDrive - SENAC - SP\repos\menuLanchonete\menuLanchonete\obj\Debug\net8.0\menuLanchonete.AssemblyInfo.cs
+C:\Users\mateus.csilva19\OneDrive - SENAC - SP\repos\menuLanchonete\menuLanchonete\obj\Debug\net8.0\menuLanchonete.csproj.CoreCompileInputs.cache
+C:\Users\mateus.csilva19\OneDrive - SENAC - SP\repos\menuLanchonete\menuLanchonete\obj\Debug\net8.0\menuLanchonete.dll
+C:\Users\mateus.csilva19\OneDrive - SENAC - SP\repos\menuLanchonete\menuLanchonete\obj\Debug\net8.0\refint\menuLanchonete.dll
+C:\Users\mateus.csilva19\OneDrive - SENAC - SP\repos\menuLanchonete\menuLanchonete\obj\Debug\net8.0\menuLanchonete.pdb
+C:\Users\mateus.csilva19\OneDrive - SENAC - SP\repos\menuLanchonete\menuLanchonete\obj\Debug\net8.0\menuLanchonete.genruntimeconfig.cache
+C:\Users\mateus.csilva19\OneDrive - SENAC - SP\repos\menuLanchonete\menuLanchonete\obj\Debug\net8.0\ref\menuLanchonete.dll

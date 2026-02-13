@@ -1,0 +1,14 @@
+C:\Users\mateus.csilva19\OneDrive - SENAC - SP\repos\exercicios\exercicios\bin\Debug\net8.0\exercicios.exe
+C:\Users\mateus.csilva19\OneDrive - SENAC - SP\repos\exercicios\exercicios\bin\Debug\net8.0\exercicios.deps.json
+C:\Users\mateus.csilva19\OneDrive - SENAC - SP\repos\exercicios\exercicios\bin\Debug\net8.0\exercicios.runtimeconfig.json
+C:\Users\mateus.csilva19\OneDrive - SENAC - SP\repos\exercicios\exercicios\bin\Debug\net8.0\exercicios.dll
+C:\Users\mateus.csilva19\OneDrive - SENAC - SP\repos\exercicios\exercicios\bin\Debug\net8.0\exercicios.pdb
+C:\Users\mateus.csilva19\OneDrive - SENAC - SP\repos\exercicios\exercicios\obj\Debug\net8.0\exercicios.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mateus.csilva19\OneDrive - SENAC - SP\repos\exercicios\exercicios\obj\Debug\net8.0\exercicios.AssemblyInfoInputs.cache
+C:\Users\mateus.csilva19\OneDrive - SENAC - SP\repos\exercicios\exercicios\obj\Debug\net8.0\exercicios.AssemblyInfo.cs
+C:\Users\mateus.csilva19\OneDrive - SENAC - SP\repos\exercicios\exercicios\obj\Debug\net8.0\exercicios.csproj.CoreCompileInputs.cache
+C:\Users\mateus.csilva19\OneDrive - SENAC - SP\repos\exercicios\exercicios\obj\Debug\net8.0\exercicios.dll
+C:\Users\mateus.csilva19\OneDrive - SENAC - SP\repos\exercicios\exercicios\obj\Debug\net8.0\refint\exercicios.dll
+C:\Users\mateus.csilva19\OneDrive - SENAC - SP\repos\exercicios\exercicios\obj\Debug\net8.0\exercicios.pdb
+C:\Users\mateus.csilva19\OneDrive - SENAC - SP\repos\exercicios\exercicios\obj\Debug\net8.0\exercicios.genruntimeconfig.cache
+C:\Users\mateus.csilva19\OneDrive - SENAC - SP\repos\exercicios\exercicios\obj\Debug\net8.0\ref\exercicios.dll
