@@ -1,0 +1,14 @@
+C:\Users\mateus.csilva19\OneDrive - SENAC - SP\repos\projetoDoWhile\projetoDoWhile\bin\Debug\net8.0\projetoDoWhile.exe
+C:\Users\mateus.csilva19\OneDrive - SENAC - SP\repos\projetoDoWhile\projetoDoWhile\bin\Debug\net8.0\projetoDoWhile.deps.json
+C:\Users\mateus.csilva19\OneDrive - SENAC - SP\repos\projetoDoWhile\projetoDoWhile\bin\Debug\net8.0\projetoDoWhile.runtimeconfig.json
+C:\Users\mateus.csilva19\OneDrive - SENAC - SP\repos\projetoDoWhile\projetoDoWhile\bin\Debug\net8.0\projetoDoWhile.dll
+C:\Users\mateus.csilva19\OneDrive - SENAC - SP\repos\projetoDoWhile\projetoDoWhile\bin\Debug\net8.0\projetoDoWhile.pdb
+C:\Users\mateus.csilva19\OneDrive - SENAC - SP\repos\projetoDoWhile\projetoDoWhile\obj\Debug\net8.0\projetoDoWhile.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mateus.csilva19\OneDrive - SENAC - SP\repos\projetoDoWhile\projetoDoWhile\obj\Debug\net8.0\projetoDoWhile.AssemblyInfoInputs.cache
+C:\Users\mateus.csilva19\OneDrive - SENAC - SP\repos\projetoDoWhile\projetoDoWhile\obj\Debug\net8.0\projetoDoWhile.AssemblyInfo.cs
+C:\Users\mateus.csilva19\OneDrive - SENAC - SP\repos\projetoDoWhile\projetoDoWhile\obj\Debug\net8.0\projetoDoWhile.csproj.CoreCompileInputs.cache
+C:\Users\mateus.csilva19\OneDrive - SENAC - SP\repos\projetoDoWhile\projetoDoWhile\obj\Debug\net8.0\projetoDoWhile.dll
+C:\Users\mateus.csilva19\OneDrive - SENAC - SP\repos\projetoDoWhile\projetoDoWhile\obj\Debug\net8.0\refint\projetoDoWhile.dll
+C:\Users\mateus.csilva19\OneDrive - SENAC - SP\repos\projetoDoWhile\projetoDoWhile\obj\Debug\net8.0\projetoDoWhile.pdb
+C:\Users\mateus.csilva19\OneDrive - SENAC - SP\repos\projetoDoWhile\projetoDoWhile\obj\Debug\net8.0\projetoDoWhile.genruntimeconfig.cache
+C:\Users\mateus.csilva19\OneDrive - SENAC - SP\repos\projetoDoWhile\projetoDoWhile\obj\Debug\net8.0\ref\projetoDoWhile.dll

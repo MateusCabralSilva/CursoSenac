@@ -1,0 +1,14 @@
+C:\Users\mateus.csilva19\OneDrive - SENAC - SP\repos\projetoArray\projetoArray\bin\Debug\net8.0\projetoArray.exe
+C:\Users\mateus.csilva19\OneDrive - SENAC - SP\repos\projetoArray\projetoArray\bin\Debug\net8.0\projetoArray.deps.json
+C:\Users\mateus.csilva19\OneDrive - SENAC - SP\repos\projetoArray\projetoArray\bin\Debug\net8.0\projetoArray.runtimeconfig.json
+C:\Users\mateus.csilva19\OneDrive - SENAC - SP\repos\projetoArray\projetoArray\bin\Debug\net8.0\projetoArray.dll
+C:\Users\mateus.csilva19\OneDrive - SENAC - SP\repos\projetoArray\projetoArray\bin\Debug\net8.0\projetoArray.pdb
+C:\Users\mateus.csilva19\OneDrive - SENAC - SP\repos\projetoArray\projetoArray\obj\Debug\net8.0\projetoArray.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mateus.csilva19\OneDrive - SENAC - SP\repos\projetoArray\projetoArray\obj\Debug\net8.0\projetoArray.AssemblyInfoInputs.cache
+C:\Users\mateus.csilva19\OneDrive - SENAC - SP\repos\projetoArray\projetoArray\obj\Debug\net8.0\projetoArray.AssemblyInfo.cs
+C:\Users\mateus.csilva19\OneDrive - SENAC - SP\repos\projetoArray\projetoArray\obj\Debug\net8.0\projetoArray.csproj.CoreCompileInputs.cache
+C:\Users\mateus.csilva19\OneDrive - SENAC - SP\repos\projetoArray\projetoArray\obj\Debug\net8.0\projetoArray.dll
+C:\Users\mateus.csilva19\OneDrive - SENAC - SP\repos\projetoArray\projetoArray\obj\Debug\net8.0\refint\projetoArray.dll
+C:\Users\mateus.csilva19\OneDrive - SENAC - SP\repos\projetoArray\projetoArray\obj\Debug\net8.0\projetoArray.pdb
+C:\Users\mateus.csilva19\OneDrive - SENAC - SP\repos\projetoArray\projetoArray\obj\Debug\net8.0\projetoArray.genruntimeconfig.cache
+C:\Users\mateus.csilva19\OneDrive - SENAC - SP\repos\projetoArray\projetoArray\obj\Debug\net8.0\ref\projetoArray.dll

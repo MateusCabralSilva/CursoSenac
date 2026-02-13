@@ -1,0 +1,14 @@
+C:\Users\mateus.csilva19\OneDrive - SENAC - SP\repos\projetoFinalUC9\projetoFinalUC9\bin\Debug\net8.0\projetoFinalUC9.exe
+C:\Users\mateus.csilva19\OneDrive - SENAC - SP\repos\projetoFinalUC9\projetoFinalUC9\bin\Debug\net8.0\projetoFinalUC9.deps.json
+C:\Users\mateus.csilva19\OneDrive - SENAC - SP\repos\projetoFinalUC9\projetoFinalUC9\bin\Debug\net8.0\projetoFinalUC9.runtimeconfig.json
+C:\Users\mateus.csilva19\OneDrive - SENAC - SP\repos\projetoFinalUC9\projetoFinalUC9\bin\Debug\net8.0\projetoFinalUC9.dll
+C:\Users\mateus.csilva19\OneDrive - SENAC - SP\repos\projetoFinalUC9\projetoFinalUC9\bin\Debug\net8.0\projetoFinalUC9.pdb
+C:\Users\mateus.csilva19\OneDrive - SENAC - SP\repos\projetoFinalUC9\projetoFinalUC9\obj\Debug\net8.0\projetoFinalUC9.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mateus.csilva19\OneDrive - SENAC - SP\repos\projetoFinalUC9\projetoFinalUC9\obj\Debug\net8.0\projetoFinalUC9.AssemblyInfoInputs.cache
+C:\Users\mateus.csilva19\OneDrive - SENAC - SP\repos\projetoFinalUC9\projetoFinalUC9\obj\Debug\net8.0\projetoFinalUC9.AssemblyInfo.cs
+C:\Users\mateus.csilva19\OneDrive - SENAC - SP\repos\projetoFinalUC9\projetoFinalUC9\obj\Debug\net8.0\projetoFinalUC9.csproj.CoreCompileInputs.cache
+C:\Users\mateus.csilva19\OneDrive - SENAC - SP\repos\projetoFinalUC9\projetoFinalUC9\obj\Debug\net8.0\projetoFinalUC9.dll
+C:\Users\mateus.csilva19\OneDrive - SENAC - SP\repos\projetoFinalUC9\projetoFinalUC9\obj\Debug\net8.0\refint\projetoFinalUC9.dll
+C:\Users\mateus.csilva19\OneDrive - SENAC - SP\repos\projetoFinalUC9\projetoFinalUC9\obj\Debug\net8.0\projetoFinalUC9.pdb
+C:\Users\mateus.csilva19\OneDrive - SENAC - SP\repos\projetoFinalUC9\projetoFinalUC9\obj\Debug\net8.0\projetoFinalUC9.genruntimeconfig.cache
+C:\Users\mateus.csilva19\OneDrive - SENAC - SP\repos\projetoFinalUC9\projetoFinalUC9\obj\Debug\net8.0\ref\projetoFinalUC9.dll
