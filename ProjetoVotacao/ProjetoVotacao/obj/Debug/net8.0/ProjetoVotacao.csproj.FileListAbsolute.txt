@@ -1,0 +1,14 @@
+C:\Users\mateus.csilva19\OneDrive - SENAC - SP\repos\ProjetoVotacao\ProjetoVotacao\bin\Debug\net8.0\ProjetoVotacao.exe
+C:\Users\mateus.csilva19\OneDrive - SENAC - SP\repos\ProjetoVotacao\ProjetoVotacao\bin\Debug\net8.0\ProjetoVotacao.deps.json
+C:\Users\mateus.csilva19\OneDrive - SENAC - SP\repos\ProjetoVotacao\ProjetoVotacao\bin\Debug\net8.0\ProjetoVotacao.runtimeconfig.json
+C:\Users\mateus.csilva19\OneDrive - SENAC - SP\repos\ProjetoVotacao\ProjetoVotacao\bin\Debug\net8.0\ProjetoVotacao.dll
+C:\Users\mateus.csilva19\OneDrive - SENAC - SP\repos\ProjetoVotacao\ProjetoVotacao\bin\Debug\net8.0\ProjetoVotacao.pdb
+C:\Users\mateus.csilva19\OneDrive - SENAC - SP\repos\ProjetoVotacao\ProjetoVotacao\obj\Debug\net8.0\ProjetoVotacao.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mateus.csilva19\OneDrive - SENAC - SP\repos\ProjetoVotacao\ProjetoVotacao\obj\Debug\net8.0\ProjetoVotacao.AssemblyInfoInputs.cache
+C:\Users\mateus.csilva19\OneDrive - SENAC - SP\repos\ProjetoVotacao\ProjetoVotacao\obj\Debug\net8.0\ProjetoVotacao.AssemblyInfo.cs
+C:\Users\mateus.csilva19\OneDrive - SENAC - SP\repos\ProjetoVotacao\ProjetoVotacao\obj\Debug\net8.0\ProjetoVotacao.csproj.CoreCompileInputs.cache
+C:\Users\mateus.csilva19\OneDrive - SENAC - SP\repos\ProjetoVotacao\ProjetoVotacao\obj\Debug\net8.0\ProjetoVotacao.dll
+C:\Users\mateus.csilva19\OneDrive - SENAC - SP\repos\ProjetoVotacao\ProjetoVotacao\obj\Debug\net8.0\refint\ProjetoVotacao.dll
+C:\Users\mateus.csilva19\OneDrive - SENAC - SP\repos\ProjetoVotacao\ProjetoVotacao\obj\Debug\net8.0\ProjetoVotacao.pdb
+C:\Users\mateus.csilva19\OneDrive - SENAC - SP\repos\ProjetoVotacao\ProjetoVotacao\obj\Debug\net8.0\ProjetoVotacao.genruntimeconfig.cache
+C:\Users\mateus.csilva19\OneDrive - SENAC - SP\repos\ProjetoVotacao\ProjetoVotacao\obj\Debug\net8.0\ref\ProjetoVotacao.dll

@@ -1,0 +1,14 @@
+C:\Users\mateus.csilva19\OneDrive - SENAC - SP\repos\projetoteste1\projetoteste1\bin\Debug\net8.0\projetoteste1.exe
+C:\Users\mateus.csilva19\OneDrive - SENAC - SP\repos\projetoteste1\projetoteste1\bin\Debug\net8.0\projetoteste1.deps.json
+C:\Users\mateus.csilva19\OneDrive - SENAC - SP\repos\projetoteste1\projetoteste1\bin\Debug\net8.0\projetoteste1.runtimeconfig.json
+C:\Users\mateus.csilva19\OneDrive - SENAC - SP\repos\projetoteste1\projetoteste1\bin\Debug\net8.0\projetoteste1.dll
+C:\Users\mateus.csilva19\OneDrive - SENAC - SP\repos\projetoteste1\projetoteste1\bin\Debug\net8.0\projetoteste1.pdb
+C:\Users\mateus.csilva19\OneDrive - SENAC - SP\repos\projetoteste1\projetoteste1\obj\Debug\net8.0\projetoteste1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mateus.csilva19\OneDrive - SENAC - SP\repos\projetoteste1\projetoteste1\obj\Debug\net8.0\projetoteste1.AssemblyInfoInputs.cache
+C:\Users\mateus.csilva19\OneDrive - SENAC - SP\repos\projetoteste1\projetoteste1\obj\Debug\net8.0\projetoteste1.AssemblyInfo.cs
+C:\Users\mateus.csilva19\OneDrive - SENAC - SP\repos\projetoteste1\projetoteste1\obj\Debug\net8.0\projetoteste1.csproj.CoreCompileInputs.cache
+C:\Users\mateus.csilva19\OneDrive - SENAC - SP\repos\projetoteste1\projetoteste1\obj\Debug\net8.0\projetoteste1.dll
+C:\Users\mateus.csilva19\OneDrive - SENAC - SP\repos\projetoteste1\projetoteste1\obj\Debug\net8.0\refint\projetoteste1.dll
+C:\Users\mateus.csilva19\OneDrive - SENAC - SP\repos\projetoteste1\projetoteste1\obj\Debug\net8.0\projetoteste1.pdb
+C:\Users\mateus.csilva19\OneDrive - SENAC - SP\repos\projetoteste1\projetoteste1\obj\Debug\net8.0\projetoteste1.genruntimeconfig.cache
+C:\Users\mateus.csilva19\OneDrive - SENAC - SP\repos\projetoteste1\projetoteste1\obj\Debug\net8.0\ref\projetoteste1.dll

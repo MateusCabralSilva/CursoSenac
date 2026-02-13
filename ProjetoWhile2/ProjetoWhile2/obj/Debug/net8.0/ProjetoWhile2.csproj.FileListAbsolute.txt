@@ -1,0 +1,14 @@
+C:\Users\mateus.csilva19\OneDrive - SENAC - SP\repos\ProjetoWhile2\ProjetoWhile2\bin\Debug\net8.0\ProjetoWhile2.exe
+C:\Users\mateus.csilva19\OneDrive - SENAC - SP\repos\ProjetoWhile2\ProjetoWhile2\bin\Debug\net8.0\ProjetoWhile2.deps.json
+C:\Users\mateus.csilva19\OneDrive - SENAC - SP\repos\ProjetoWhile2\ProjetoWhile2\bin\Debug\net8.0\ProjetoWhile2.runtimeconfig.json
+C:\Users\mateus.csilva19\OneDrive - SENAC - SP\repos\ProjetoWhile2\ProjetoWhile2\bin\Debug\net8.0\ProjetoWhile2.dll
+C:\Users\mateus.csilva19\OneDrive - SENAC - SP\repos\ProjetoWhile2\ProjetoWhile2\bin\Debug\net8.0\ProjetoWhile2.pdb
+C:\Users\mateus.csilva19\OneDrive - SENAC - SP\repos\ProjetoWhile2\ProjetoWhile2\obj\Debug\net8.0\ProjetoWhile2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mateus.csilva19\OneDrive - SENAC - SP\repos\ProjetoWhile2\ProjetoWhile2\obj\Debug\net8.0\ProjetoWhile2.AssemblyInfoInputs.cache
+C:\Users\mateus.csilva19\OneDrive - SENAC - SP\repos\ProjetoWhile2\ProjetoWhile2\obj\Debug\net8.0\ProjetoWhile2.AssemblyInfo.cs
+C:\Users\mateus.csilva19\OneDrive - SENAC - SP\repos\ProjetoWhile2\ProjetoWhile2\obj\Debug\net8.0\ProjetoWhile2.csproj.CoreCompileInputs.cache
+C:\Users\mateus.csilva19\OneDrive - SENAC - SP\repos\ProjetoWhile2\ProjetoWhile2\obj\Debug\net8.0\ProjetoWhile2.dll
+C:\Users\mateus.csilva19\OneDrive - SENAC - SP\repos\ProjetoWhile2\ProjetoWhile2\obj\Debug\net8.0\refint\ProjetoWhile2.dll
+C:\Users\mateus.csilva19\OneDrive - SENAC - SP\repos\ProjetoWhile2\ProjetoWhile2\obj\Debug\net8.0\ProjetoWhile2.pdb
+C:\Users\mateus.csilva19\OneDrive - SENAC - SP\repos\ProjetoWhile2\ProjetoWhile2\obj\Debug\net8.0\ProjetoWhile2.genruntimeconfig.cache
+C:\Users\mateus.csilva19\OneDrive - SENAC - SP\repos\ProjetoWhile2\ProjetoWhile2\obj\Debug\net8.0\ref\ProjetoWhile2.dll
