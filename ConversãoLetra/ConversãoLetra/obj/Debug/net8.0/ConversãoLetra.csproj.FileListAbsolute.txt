@@ -1,0 +1,14 @@
+C:\Users\mateus.csilva19\OneDrive - SENAC - SP\repos\ConversãoLetra\ConversãoLetra\bin\Debug\net8.0\ConversãoLetra.exe
+C:\Users\mateus.csilva19\OneDrive - SENAC - SP\repos\ConversãoLetra\ConversãoLetra\bin\Debug\net8.0\ConversãoLetra.deps.json
+C:\Users\mateus.csilva19\OneDrive - SENAC - SP\repos\ConversãoLetra\ConversãoLetra\bin\Debug\net8.0\ConversãoLetra.runtimeconfig.json
+C:\Users\mateus.csilva19\OneDrive - SENAC - SP\repos\ConversãoLetra\ConversãoLetra\bin\Debug\net8.0\ConversãoLetra.dll
+C:\Users\mateus.csilva19\OneDrive - SENAC - SP\repos\ConversãoLetra\ConversãoLetra\bin\Debug\net8.0\ConversãoLetra.pdb
+C:\Users\mateus.csilva19\OneDrive - SENAC - SP\repos\ConversãoLetra\ConversãoLetra\obj\Debug\net8.0\ConversãoLetra.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mateus.csilva19\OneDrive - SENAC - SP\repos\ConversãoLetra\ConversãoLetra\obj\Debug\net8.0\ConversãoLetra.AssemblyInfoInputs.cache
+C:\Users\mateus.csilva19\OneDrive - SENAC - SP\repos\ConversãoLetra\ConversãoLetra\obj\Debug\net8.0\ConversãoLetra.AssemblyInfo.cs
+C:\Users\mateus.csilva19\OneDrive - SENAC - SP\repos\ConversãoLetra\ConversãoLetra\obj\Debug\net8.0\ConversãoLetra.csproj.CoreCompileInputs.cache
+C:\Users\mateus.csilva19\OneDrive - SENAC - SP\repos\ConversãoLetra\ConversãoLetra\obj\Debug\net8.0\ConversãoLetra.dll
+C:\Users\mateus.csilva19\OneDrive - SENAC - SP\repos\ConversãoLetra\ConversãoLetra\obj\Debug\net8.0\refint\ConversãoLetra.dll
+C:\Users\mateus.csilva19\OneDrive - SENAC - SP\repos\ConversãoLetra\ConversãoLetra\obj\Debug\net8.0\ConversãoLetra.pdb
+C:\Users\mateus.csilva19\OneDrive - SENAC - SP\repos\ConversãoLetra\ConversãoLetra\obj\Debug\net8.0\ConversãoLetra.genruntimeconfig.cache
+C:\Users\mateus.csilva19\OneDrive - SENAC - SP\repos\ConversãoLetra\ConversãoLetra\obj\Debug\net8.0\ref\ConversãoLetra.dll
