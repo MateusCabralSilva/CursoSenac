@@ -1,0 +1,14 @@
+C:\Users\mateus.csilva19\OneDrive - SENAC - SP\repos\projetoRepeticao4\projetoRepeticao4\bin\Debug\net8.0\projetoRepeticao4.exe
+C:\Users\mateus.csilva19\OneDrive - SENAC - SP\repos\projetoRepeticao4\projetoRepeticao4\bin\Debug\net8.0\projetoRepeticao4.deps.json
+C:\Users\mateus.csilva19\OneDrive - SENAC - SP\repos\projetoRepeticao4\projetoRepeticao4\bin\Debug\net8.0\projetoRepeticao4.runtimeconfig.json
+C:\Users\mateus.csilva19\OneDrive - SENAC - SP\repos\projetoRepeticao4\projetoRepeticao4\bin\Debug\net8.0\projetoRepeticao4.dll
+C:\Users\mateus.csilva19\OneDrive - SENAC - SP\repos\projetoRepeticao4\projetoRepeticao4\bin\Debug\net8.0\projetoRepeticao4.pdb
+C:\Users\mateus.csilva19\OneDrive - SENAC - SP\repos\projetoRepeticao4\projetoRepeticao4\obj\Debug\net8.0\projetoRepeticao4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mateus.csilva19\OneDrive - SENAC - SP\repos\projetoRepeticao4\projetoRepeticao4\obj\Debug\net8.0\projetoRepeticao4.AssemblyInfoInputs.cache
+C:\Users\mateus.csilva19\OneDrive - SENAC - SP\repos\projetoRepeticao4\projetoRepeticao4\obj\Debug\net8.0\projetoRepeticao4.AssemblyInfo.cs
+C:\Users\mateus.csilva19\OneDrive - SENAC - SP\repos\projetoRepeticao4\projetoRepeticao4\obj\Debug\net8.0\projetoRepeticao4.csproj.CoreCompileInputs.cache
+C:\Users\mateus.csilva19\OneDrive - SENAC - SP\repos\projetoRepeticao4\projetoRepeticao4\obj\Debug\net8.0\projetoRepeticao4.dll
+C:\Users\mateus.csilva19\OneDrive - SENAC - SP\repos\projetoRepeticao4\projetoRepeticao4\obj\Debug\net8.0\refint\projetoRepeticao4.dll
+C:\Users\mateus.csilva19\OneDrive - SENAC - SP\repos\projetoRepeticao4\projetoRepeticao4\obj\Debug\net8.0\projetoRepeticao4.pdb
+C:\Users\mateus.csilva19\OneDrive - SENAC - SP\repos\projetoRepeticao4\projetoRepeticao4\obj\Debug\net8.0\projetoRepeticao4.genruntimeconfig.cache
+C:\Users\mateus.csilva19\OneDrive - SENAC - SP\repos\projetoRepeticao4\projetoRepeticao4\obj\Debug\net8.0\ref\projetoRepeticao4.dll
