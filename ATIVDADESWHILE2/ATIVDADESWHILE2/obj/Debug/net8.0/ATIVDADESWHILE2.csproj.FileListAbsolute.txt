@@ -1,0 +1,14 @@
+C:\Users\mateus.csilva19\OneDrive - SENAC - SP\repos\ATIVDADESWHILE2\ATIVDADESWHILE2\bin\Debug\net8.0\ATIVDADESWHILE2.exe
+C:\Users\mateus.csilva19\OneDrive - SENAC - SP\repos\ATIVDADESWHILE2\ATIVDADESWHILE2\bin\Debug\net8.0\ATIVDADESWHILE2.deps.json
+C:\Users\mateus.csilva19\OneDrive - SENAC - SP\repos\ATIVDADESWHILE2\ATIVDADESWHILE2\bin\Debug\net8.0\ATIVDADESWHILE2.runtimeconfig.json
+C:\Users\mateus.csilva19\OneDrive - SENAC - SP\repos\ATIVDADESWHILE2\ATIVDADESWHILE2\bin\Debug\net8.0\ATIVDADESWHILE2.dll
+C:\Users\mateus.csilva19\OneDrive - SENAC - SP\repos\ATIVDADESWHILE2\ATIVDADESWHILE2\bin\Debug\net8.0\ATIVDADESWHILE2.pdb
+C:\Users\mateus.csilva19\OneDrive - SENAC - SP\repos\ATIVDADESWHILE2\ATIVDADESWHILE2\obj\Debug\net8.0\ATIVDADESWHILE2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mateus.csilva19\OneDrive - SENAC - SP\repos\ATIVDADESWHILE2\ATIVDADESWHILE2\obj\Debug\net8.0\ATIVDADESWHILE2.AssemblyInfoInputs.cache
+C:\Users\mateus.csilva19\OneDrive - SENAC - SP\repos\ATIVDADESWHILE2\ATIVDADESWHILE2\obj\Debug\net8.0\ATIVDADESWHILE2.AssemblyInfo.cs
+C:\Users\mateus.csilva19\OneDrive - SENAC - SP\repos\ATIVDADESWHILE2\ATIVDADESWHILE2\obj\Debug\net8.0\ATIVDADESWHILE2.csproj.CoreCompileInputs.cache
+C:\Users\mateus.csilva19\OneDrive - SENAC - SP\repos\ATIVDADESWHILE2\ATIVDADESWHILE2\obj\Debug\net8.0\ATIVDADESWHILE2.dll
+C:\Users\mateus.csilva19\OneDrive - SENAC - SP\repos\ATIVDADESWHILE2\ATIVDADESWHILE2\obj\Debug\net8.0\refint\ATIVDADESWHILE2.dll
+C:\Users\mateus.csilva19\OneDrive - SENAC - SP\repos\ATIVDADESWHILE2\ATIVDADESWHILE2\obj\Debug\net8.0\ATIVDADESWHILE2.pdb
+C:\Users\mateus.csilva19\OneDrive - SENAC - SP\repos\ATIVDADESWHILE2\ATIVDADESWHILE2\obj\Debug\net8.0\ATIVDADESWHILE2.genruntimeconfig.cache
+C:\Users\mateus.csilva19\OneDrive - SENAC - SP\repos\ATIVDADESWHILE2\ATIVDADESWHILE2\obj\Debug\net8.0\ref\ATIVDADESWHILE2.dll

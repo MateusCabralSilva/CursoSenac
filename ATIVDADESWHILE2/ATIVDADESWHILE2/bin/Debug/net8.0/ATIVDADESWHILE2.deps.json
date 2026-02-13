@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "ATIVDADESWHILE2/1.0.0": {
+        "runtime": {
+          "ATIVDADESWHILE2.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ATIVDADESWHILE2/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
