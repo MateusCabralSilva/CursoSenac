@@ -1,0 +1,14 @@
+C:\Users\mateus.csilva19\OneDrive - SENAC - SP\repos\AtividadeArray\AtividadeArray\bin\Debug\net8.0\AtividadeArray.exe
+C:\Users\mateus.csilva19\OneDrive - SENAC - SP\repos\AtividadeArray\AtividadeArray\bin\Debug\net8.0\AtividadeArray.deps.json
+C:\Users\mateus.csilva19\OneDrive - SENAC - SP\repos\AtividadeArray\AtividadeArray\bin\Debug\net8.0\AtividadeArray.runtimeconfig.json
+C:\Users\mateus.csilva19\OneDrive - SENAC - SP\repos\AtividadeArray\AtividadeArray\bin\Debug\net8.0\AtividadeArray.dll
+C:\Users\mateus.csilva19\OneDrive - SENAC - SP\repos\AtividadeArray\AtividadeArray\bin\Debug\net8.0\AtividadeArray.pdb
+C:\Users\mateus.csilva19\OneDrive - SENAC - SP\repos\AtividadeArray\AtividadeArray\obj\Debug\net8.0\AtividadeArray.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mateus.csilva19\OneDrive - SENAC - SP\repos\AtividadeArray\AtividadeArray\obj\Debug\net8.0\AtividadeArray.AssemblyInfoInputs.cache
+C:\Users\mateus.csilva19\OneDrive - SENAC - SP\repos\AtividadeArray\AtividadeArray\obj\Debug\net8.0\AtividadeArray.AssemblyInfo.cs
+C:\Users\mateus.csilva19\OneDrive - SENAC - SP\repos\AtividadeArray\AtividadeArray\obj\Debug\net8.0\AtividadeArray.csproj.CoreCompileInputs.cache
+C:\Users\mateus.csilva19\OneDrive - SENAC - SP\repos\AtividadeArray\AtividadeArray\obj\Debug\net8.0\AtividadeArray.dll
+C:\Users\mateus.csilva19\OneDrive - SENAC - SP\repos\AtividadeArray\AtividadeArray\obj\Debug\net8.0\refint\AtividadeArray.dll
+C:\Users\mateus.csilva19\OneDrive - SENAC - SP\repos\AtividadeArray\AtividadeArray\obj\Debug\net8.0\AtividadeArray.pdb
+C:\Users\mateus.csilva19\OneDrive - SENAC - SP\repos\AtividadeArray\AtividadeArray\obj\Debug\net8.0\AtividadeArray.genruntimeconfig.cache
+C:\Users\mateus.csilva19\OneDrive - SENAC - SP\repos\AtividadeArray\AtividadeArray\obj\Debug\net8.0\ref\AtividadeArray.dll
