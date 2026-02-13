@@ -1,0 +1,14 @@
+C:\Users\mateus.csilva19\OneDrive - SENAC - SP\repos\projetoswitch3\projetoswitch3\bin\Debug\net8.0\projetoswitch3.exe
+C:\Users\mateus.csilva19\OneDrive - SENAC - SP\repos\projetoswitch3\projetoswitch3\bin\Debug\net8.0\projetoswitch3.deps.json
+C:\Users\mateus.csilva19\OneDrive - SENAC - SP\repos\projetoswitch3\projetoswitch3\bin\Debug\net8.0\projetoswitch3.runtimeconfig.json
+C:\Users\mateus.csilva19\OneDrive - SENAC - SP\repos\projetoswitch3\projetoswitch3\bin\Debug\net8.0\projetoswitch3.dll
+C:\Users\mateus.csilva19\OneDrive - SENAC - SP\repos\projetoswitch3\projetoswitch3\bin\Debug\net8.0\projetoswitch3.pdb
+C:\Users\mateus.csilva19\OneDrive - SENAC - SP\repos\projetoswitch3\projetoswitch3\obj\Debug\net8.0\projetoswitch3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mateus.csilva19\OneDrive - SENAC - SP\repos\projetoswitch3\projetoswitch3\obj\Debug\net8.0\projetoswitch3.AssemblyInfoInputs.cache
+C:\Users\mateus.csilva19\OneDrive - SENAC - SP\repos\projetoswitch3\projetoswitch3\obj\Debug\net8.0\projetoswitch3.AssemblyInfo.cs
+C:\Users\mateus.csilva19\OneDrive - SENAC - SP\repos\projetoswitch3\projetoswitch3\obj\Debug\net8.0\projetoswitch3.csproj.CoreCompileInputs.cache
+C:\Users\mateus.csilva19\OneDrive - SENAC - SP\repos\projetoswitch3\projetoswitch3\obj\Debug\net8.0\projetoswitch3.dll
+C:\Users\mateus.csilva19\OneDrive - SENAC - SP\repos\projetoswitch3\projetoswitch3\obj\Debug\net8.0\refint\projetoswitch3.dll
+C:\Users\mateus.csilva19\OneDrive - SENAC - SP\repos\projetoswitch3\projetoswitch3\obj\Debug\net8.0\projetoswitch3.pdb
+C:\Users\mateus.csilva19\OneDrive - SENAC - SP\repos\projetoswitch3\projetoswitch3\obj\Debug\net8.0\projetoswitch3.genruntimeconfig.cache
+C:\Users\mateus.csilva19\OneDrive - SENAC - SP\repos\projetoswitch3\projetoswitch3\obj\Debug\net8.0\ref\projetoswitch3.dll
